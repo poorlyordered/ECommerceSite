@@ -8,6 +8,6 @@ const SignInAndSignUpPage = () => (
 <SignIn />
 </div>
 
-)
+);
 
 export default SignInAndSignUpPage;
